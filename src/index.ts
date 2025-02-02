@@ -1,3 +1,3 @@
-export const example = () => {
+export const example = ():boolean => {
   return true
 }
